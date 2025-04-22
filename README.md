@@ -5,8 +5,8 @@ A fun and interactive project that brings a penguin to life using HTML and CSS. 
 
 🚀 Live Demo
 
-[https://victormaluki21.github.io/Penguin/](https://victormaluki21.github.io/Penguin/)
-
+[https://victormaluki21.github.io/Penguin/
+](https://victormaluki21.github.io/Penguin/)
 
 📌 Features
 
